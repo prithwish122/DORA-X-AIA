@@ -1,0 +1,3 @@
+nft contract -  0x22573A22d84AfeDcA86fA7569F7c253957fdfdD1
+
+marketplace contract - 0x3645c31f845699FC07a10329C365ee2Ca17B1a34
