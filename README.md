@@ -37,7 +37,7 @@
 
 1. Clone the repository:
     ```bash
-    https://github.com/prithwish122/DORA-POCKET.git
+https://github.com/prithwish122/DORA-X-AIA
     cd my-app
     ```
 
