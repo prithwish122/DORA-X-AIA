@@ -10,9 +10,15 @@
  Refered by HACKQUEST
 
 ## Contract Address : 
-- NFT Contract Address 0x22573A22d84AfeDcA86fA7569F7c253957fdfdD1
+- NFT Contract Address : 0x22573A22d84AfeDcA86fA7569F7c253957fdfdD1
 
-- Verify this Contract -> [Verify GG](https://testnet.aiascan.com/0x22573A22d84AfeDcA86fA7569F7c253957fdfdD1)
+- Verify this Contract -> [Verify Contract here ](https://testnet.aiascan.com/address/0x22573A22d84AfeDcA86fA7569F7c253957fdfdD)
+
+- Marketplace contract : 0x3645c31f845699FC07a10329C365ee2Ca17B1a34
+
+- Verify this Contract -> [Verify Contract here ](https://testnet.aiascan.com/address/0x3645c31f845699FC07a10329C365ee2Ca17B1a34)
+
+
 
 ## TECH STACK :
 
